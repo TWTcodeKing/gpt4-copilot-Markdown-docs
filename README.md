@@ -34,15 +34,37 @@
 
 ##### 2.1 中英文互译
 
-涉及大模型prompt工程开发
+中译英 case1:
+
+<img src="./docs/imgs/trans1_chi.png" alt="line" style="zoom: 80%;" />
+
+<img src="./docs/imgs/trans1_eng.png" alt="trans1_eng" style="zoom:80%;" />
+
+中译英 case2:
+
+<img src="./docs/imgs/trans2_chi.png" alt="trans2_chi" style="zoom:80%;" />
+
+<img src="./docs/imgs/trans2_eng.png" alt="trans2_eng" style="zoom:80%;" />
+
+英译中 case1:
+
+<img src="./docs/imgs/trans3_chi.png" alt="trans3_chi" style="zoom:80%;" />
+
+<img src="./docs/imgs/trans3_eng.png" alt="trans3_eng" style="zoom:80%;" />
+
+英译中 case2:
+
+<img src="./docs/imgs/trans4_chi.png" alt="trans4_chi" style="zoom:80%;" />
+
+<img src="./docs/imgs/trans4_eng.png" alt="trans4_eng" style="zoom:80%;" />
 
 ##### 2.2 论文润色改写
 
-涉及大模型prompt工程开发
+[Docs (feishu.cn)](https://bn4wfbzrio.feishu.cn/docx/JOjVdqAsJoaHdjxLj2ScHGUen6d)
 
+##### 2.3 前后端重构
 
-
-
+预计2-3周时间
 
 
 
